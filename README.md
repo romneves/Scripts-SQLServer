@@ -1,3 +1,6 @@
 # Scripts-SQLServer
-Estes scripts são utilizados em minhas consultorias e problemas do dia a dia. 
-Estes scripts são opensource, portanto, fique à vontade caso queira utiliza-los.
+Estes scripts foram criados e adptados para serem livremente utilizados e serve de apoio como contribuição para a comunidade SQL Server. 
+
+Todos os scripts podem sofrer alteração sem prévio aviso e não me responsabilizo pela sua indevida utilização.
+
+Estes arquivos são gratuitos, ou seja, fique à vontade para editar ou copiar para a sua utilização.
