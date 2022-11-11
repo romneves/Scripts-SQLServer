@@ -3,4 +3,8 @@ Estes scripts foram criados e adptados para serem livremente utilizados e serve 
 
 Todos os scripts podem sofrer alteração sem prévio aviso e não me responsabilizo pela sua indevida utilização.
 
-Estes arquivos são gratuitos, ou seja, fique à vontade para editar ou copiar para a sua utilização.
+Estes arquivos são e sempre serão gratuitos, ou seja, você pode copiar e compartilhar com quem desejar, pois sua utilização é livre.
+
+Grato, 
+
+Robson Crescente Neves
